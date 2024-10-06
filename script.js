@@ -8,13 +8,10 @@ function insertBasicHTML(event) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Your Document Title</title>
+<!--Link Css is Not Compulsory-->
 </head>
 <body>
-
-<!-- This is an HTML comment -->
-<div id="myId" style="color: blue;">This is a div with an ID</div>
-<div class="myClass" style="color: green;">This is a div with a class</div>
-
+     <!-- Write Contant Here --> 
 </body>
 </html>`;
         
